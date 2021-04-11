@@ -1,0 +1,34 @@
+.form{
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 600px;
+    min-height: 200px;
+    border: 5px solid #01509D;
+    color: #01509D;
+}
+.formTitle{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 100px;
+    margin-top: 10px;
+    font-size: 32px;
+}
+.fmrow{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 50px;
+}
+.fmblk{
+    width: 250px;
+    height: 50px;
+}
+.submitBtn{
+    background-color: #fff;
+    width: 250px;
+    border: 5px solid #01509D;
+}
+.submitBtn:hover{
+    background-color: #01509D;
+}
