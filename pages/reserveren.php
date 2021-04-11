@@ -55,13 +55,15 @@
                         </div>
                         <div class="fmrow">
                             <div class="fmblk">
-                                <label for="">Periode</label>
+                                <label for="">Periode:</label>
                             </div>
                             <div class="fmblk">
-                                <input type="txt" name="periode">
+                                <input type="date" class="periode" name="periodeStart"><br />
+                                <span style="color:black;">tot</span><br />
+                                <input type="date" class="periode" name="periodeEind">
                             </div>
                         </div>
-                        <div class="fmrow">
+                        <div class="fmrow" style="margin-top: 30px;">
                             <input class="submitBtn" value="Login" type="submit">
                         </div>
                     </form>

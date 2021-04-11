@@ -18,7 +18,7 @@
                 <img src="img/img2.jpg" alt="">
             </div>
             <div id="content">
-                
+                Hier komt info van de camping village
             </div>
         </div>
     <?php include 'templates/footer.php';?>
