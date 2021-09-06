@@ -64,7 +64,7 @@
                             </div>
                         </div>
                         <div class="fmrow" style="margin-top: 30px;">
-                            <input class="submitBtn" value="Login" type="submit">
+                            <input class="submitBtn" value="Reserveren" type="submit">
                         </div>
                     </form>
                 </div>
